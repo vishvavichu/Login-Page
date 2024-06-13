@@ -1,0 +1,48 @@
+Login Page with CSS Transitions and Animations
+
+This project is a simple login page built using HTML and CSS, featuring smooth transitions and animations for an enhanced user experience.
+
+Features:
+
+Simple and clean design
+Responsive layout
+Smooth transitions and animations
+Cross-browser compatibility
+
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/login-page.git
+Navigate to the project directory:
+bash
+Copy code
+cd login-page
+Usage
+To view the login page, simply open the index.html file in your web browser:
+bash
+Copy code
+open index.html
+Alternatively, you can use a live server extension in your code editor (such as Live Server for Visual Studio Code) for a better development experience.
+
+Project Structure
+Copy code
+login-page/
++-- css/
+¦   +-- style.css
++-- index.html
++-- README.md
+index.html: The main HTML file for the login page.
+css/style.css: The CSS file containing styles, transitions, and animations.
+README.md: Project documentation.
+Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/your-feature-name).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/your-feature-name).
+Open a pull request.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
